@@ -13,7 +13,7 @@
 
 
 ### 图片展示
-![Image text](https://fengsha886.github.io/DFBooking.github.io/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-09-12%20at%2010.55.17.png)
+![Image text](https://fengsha886.github.io/DFBooking.github.io/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-09-12%20at%2010.55.17.png)
 
 ![Image text](https://fengsha886.github.io/DFBooking.github.io/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-09-12%20at%2010.55.20.png)
 
